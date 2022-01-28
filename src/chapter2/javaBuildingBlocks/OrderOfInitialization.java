@@ -11,7 +11,7 @@ public class OrderOfInitialization {
 //		System.out.println(i);//I can't run the variable before it has been declared
 		i = "5";
 	}
-	
+
 	public OrderOfInitialization() {
 		i = "3";
 	}
