@@ -63,4 +63,5 @@ public class MakingDecisions {
 			}
 		System.out.println("methodCrazyLoop count " + count);
 	}
+	
 }
