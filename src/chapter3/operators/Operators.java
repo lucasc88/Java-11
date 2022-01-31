@@ -1,4 +1,4 @@
-package chapter2.javaBuildingBlocks;
+package chapter3.operators;
 
 public class Operators {
 
