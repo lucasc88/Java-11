@@ -29,6 +29,10 @@ public class ImmutableArray {
 		
 		System.out.println(list);
 		
+		String asd = "asd";
+		asd += 'd';//String allows character concatanation
 		
+		int[] java = new int[1];
+		System.out.println(java[0]);
 	}
 }
