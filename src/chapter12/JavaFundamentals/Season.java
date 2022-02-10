@@ -13,7 +13,7 @@ public enum Season {
 
 	Season(){
 		System.out.println("Constructor printing it only one without parameter");
-		this.expectedVisitors = "Meduim";
+		this.expectedVisitors = "Medium";
 	}
 	
 	public void printExpectedVisitors() {
